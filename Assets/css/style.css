@@ -60,3 +60,12 @@ h2 {
 .gallery: hover {
     transform: scale(1.1)
 }
+
+
+.col{
+    margin: 45px;
+}
+
+.first-col-image {
+    padding-left: 50px;
+}
