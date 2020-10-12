@@ -1,0 +1,62 @@
+body {
+    background-color: lightgrey;
+    font-family: 'Raleway', sans-serif;    
+    line-height: 34px;
+
+  }
+
+#nav-title {
+    color: lightseagreen;
+    font-family: 'League Script', cursive;
+
+}
+
+a {
+    color: lightseagreen;
+}
+
+h1 {
+    color: lightseagreen;
+    font-family: 'Raleway', sans-serif;    
+
+}
+
+h2 {
+    text-align: center;
+}
+  
+.main-content{
+    margin-top:3em;
+    margin-bottom: 3em;
+    padding-top:1em;
+    padding-bottom: 3em;
+}
+
+#contactbutton {
+    background-color:lightseagreen;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:lightseagreen;
+    color: black;
+    text-align: center;
+}
+
+.gallery  {
+    margin: 10px 50px;
+}
+
+.gallery img {
+    transition:1s;
+    padding: 15px; 
+    width: 200 px;
+}
+
+.gallery: hover {
+    transform: scale(1.1)
+}
