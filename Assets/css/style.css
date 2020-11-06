@@ -1,3 +1,11 @@
+#display-font{
+    font-family: 'Yeseva One', cursive;
+    color: rgb(57, 145, 140);
+    text-align: left;
+
+
+}
+
 body {
     background-color: lightgrey;
     font-family: 'Raleway', sans-serif;    
@@ -6,10 +14,13 @@ body {
   }
 
   .jumbotron {
-    background: url('Assets/Images/sarahcox.jpg') no-repeat center;
-    background-size: cover;
+    background: url('../images/sarahcox.jpg') no-repeat center center fixed;
     padding-top: 20%;
     padding-bottom: 20%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
   }
 
 #nav-title {
@@ -24,16 +35,14 @@ a {
 
 h1 {
     color: lightseagreen;
-    font-family: 'Raleway', sans-serif;    
-
 }
 
 h2 {
     text-align: center;
 }
-  
+
 .main-content{
-    margin-top:3em;
+    margin-top:10em;
     margin-bottom: 3em;
     padding-top:1em;
     padding-bottom: 3em;
@@ -43,6 +52,15 @@ h2 {
     background-color:lightseagreen;
 }
 
+#mid-container {
+    background-color:white;
+    margin-top:3em;
+    margin-bottom: 3em;
+    padding-top:1em;
+    padding-bottom: 3em;
+}
+
+}
 
 .footer {
     position: fixed;
@@ -52,27 +70,4 @@ h2 {
     background-color:lightseagreen;
     color: black;
     text-align: center;
-}
-
-.gallery  {
-    margin: 10px 50px;
-}
-
-.gallery img {
-    transition:1s;
-    padding: 15px; 
-    width: 200 px;
-}
-
-.gallery: hover {
-    transform: scale(1.1)
-}
-
-
-.col{
-    margin: 52px;
-}
-
-.first-col-image {
-    padding-left: 50px;
 }
