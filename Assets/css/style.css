@@ -5,6 +5,13 @@ body {
 
   }
 
+  .jumbotron {
+    background: url('Assets/Images/sarahcox.jpg') no-repeat center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+  }
+
 #nav-title {
     color: lightseagreen;
     font-family: 'League Script', cursive;
