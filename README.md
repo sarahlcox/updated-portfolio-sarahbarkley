@@ -3,8 +3,6 @@
   ## Table of Contents
   * [ Description ](#description)
   * [ License ](#license)
-  * [ Contributing ](#contributing)
-  * [ Tests ](#tests)
   * [ Questions ](#questions)
   
 ### Description
