@@ -3,7 +3,6 @@
     color: rgb(57, 145, 140);
     text-align: left;
 
-
 }
 
 body {
@@ -41,6 +40,21 @@ h2 {
     text-align: center;
 }
 
+.accordionResume {
+    margin-top:10em;
+    margin-bottom: 6em;
+    padding-top:6em;
+    padding-bottom: 6em;
+}
+
+.portfolio-cont{
+    margin-top:10em;
+    margin-bottom: 6em;
+    padding-top:6em;
+    padding-bottom: 6em;
+    align-content: center;
+}
+
 .main-content{
     margin-top:10em;
     margin-bottom: 3em;
@@ -60,10 +74,17 @@ h2 {
     padding-bottom: 3em;
 }
 
+#card-deck {
+    margin-top:3em;
+    margin-bottom:6em;
+    margin-left:6em;
+    margin-right:6em;
+
+
 }
 
 .footer {
-    position: fixed;
+    margin-top:3em;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -71,3 +92,4 @@ h2 {
     color: black;
     text-align: center;
 }
+
