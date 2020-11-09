@@ -13,7 +13,7 @@ body {
   }
 
   .jumbotron {
-    background: url('./Assets/images/sarahcox.jpg') no-repeat center center fixed;
+    background: url('../Images/sarahcox.jpg') no-repeat center center fixed;
     padding-top: 20%;
     padding-bottom: 20%;
     -webkit-background-size: cover;
