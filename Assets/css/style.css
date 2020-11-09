@@ -48,12 +48,12 @@ h2 {
 }
 
 .portfolio-cont{
-    /* margin-top:10em;
-    margin-bottom: 6em;
     padding-top:6em;
-    padding-bottom: 6em; */
+    padding-bottom: 6em;
     align-content: center ;
     text-align: center !important;
+    background-color:white;
+
 
 }
 /* 
