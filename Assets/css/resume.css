@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  
+#resume-file {
+    text-align: center !important;
+    align-content: center ;
+    margin-top:6em;
+    margin-bottom: 3em;
+}
+
+#resume-cont {
+    background-color:white;
+    align-content: center ;
+    margin-top:3em;
+    margin-right:5em;
+    margin-bottom: 3em;
+    margin-left:5em;
+}
+
+#file-col {
+    align-content: center;
+    text-align: center !important;
+
+}

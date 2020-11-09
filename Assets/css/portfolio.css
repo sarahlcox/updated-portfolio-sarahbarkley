@@ -1,7 +1,6 @@
-// None of this CSS is required for the gallery and lightbox to function.
-
-// --- BEGIN: crop images --- //
-// Optional CSS for cropping images that aren't all the same size.
+body {
+  background-color: rgb(255, 255, 255);
+}
 
 // Use Bootstrap breakpoints for consistency.
 $bootstrap-sm: 576px;
